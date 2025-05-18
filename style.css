@@ -103,16 +103,14 @@ section thead, tbody, th, tr, td {
     border: 2.5px solid rgb(65, 41, 0);
 }
 
-.fooldal-templom {
+#fooldal-templom {
     height: 200px;
-    float: left;
     margin-right: 10px;
     margin-top: 10px;
 }
 
-.fooldal-atlan {
+#fooldal-atlan {
     height: 200px;
-    float: right;
     margin-left: 10px;
     margin-top: 10px; 
 }
