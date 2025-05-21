@@ -122,3 +122,9 @@ section thead, tbody, th, tr, td {
     font-size: 30px;
     color: rgb(160, 0, 0);
 }
+
+#posszeidon-szigony{
+    height: 200px;
+    margin-right: 10px;
+    margin-top: 10px; 
+}
