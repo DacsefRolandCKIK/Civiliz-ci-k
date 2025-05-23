@@ -139,7 +139,13 @@ section thead, tbody, th, tr, td {
 }
 
 #majak{
-    height: 200px;
+    height: 225px;
+    margin-left: 10px;
+    margin-top: 10px; 
+}
+
+#aztekok{
+    height: 250px;
     margin-left: 10px;
     margin-top: 10px; 
 }
