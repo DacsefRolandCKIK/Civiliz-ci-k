@@ -149,3 +149,15 @@ section thead, tbody, th, tr, td {
     margin-left: 10px;
     margin-top: 10px; 
 }
+
+#lemúria-elképzelése {
+    height: 230px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#lemúriai-táj {
+    height: 230px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
