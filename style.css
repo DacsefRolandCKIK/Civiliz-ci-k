@@ -161,3 +161,15 @@ section thead, tbody, th, tr, td {
     margin-right: 10px;
     margin-top: 10px;
 }
+
+#inka {
+    height: 230px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#inka-emberek {
+    height: 230px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
