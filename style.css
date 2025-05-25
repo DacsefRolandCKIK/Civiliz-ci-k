@@ -173,3 +173,9 @@ section thead, tbody, th, tr, td {
     margin-right: 10px;
     margin-top: 10px;
 }
+
+#templom{
+    height: 200px;
+    margin-left: 5px;
+    margin-top: 5px; 
+}
