@@ -149,3 +149,39 @@ section thead, tbody, th, tr, td {
     margin-left: 10px;
     margin-top: 10px; 
 }
+
+#lemúria-elképzelése {
+    height: 230px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#lemúriai-táj {
+    height: 230px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+#inka {
+    height: 230px;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+
+#inka-emberek {
+    height: 230px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+#templom{
+    height: 200px;
+    margin-right: 5px;
+    margin-top: 20px; 
+}
+
+#épület{
+    height: 200px;
+    margin-left: 5px;
+    margin-top: 5px; 
+}
